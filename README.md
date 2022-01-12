@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm InsaneWaifu/Josh</h1>
 <h3 align="center">I am just coding for fun</h3>
 
-- 🔭 I’m currently working on [Rikke, a tool to gather information about somebody based on a username (the name is not related to Frederikke)](https://github.com/InsaneWaifu/Rikke)
+- 🔭 I’m currently working on [Rikke, a tool to gather information about somebody based on a username](https://github.com/InsaneWaifu/Rikke)
 
 - 🌱 I’m currently learning **Vue, TS, Nx, C++**
 
